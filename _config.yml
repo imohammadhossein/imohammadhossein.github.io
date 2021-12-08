@@ -5,7 +5,7 @@ baseurl: "https://imohammadhossein.github.io/"
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
-github_username:"imohammadhossein"
+github_username: "imohammadhossein"
 
 # Build settings
 markdown: kramdown
