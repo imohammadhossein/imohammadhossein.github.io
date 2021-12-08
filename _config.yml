@@ -1,7 +1,7 @@
 # Site settings
-title:Mohammad Hossein Niki Maleki
-email:mh.nikimaleki@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog/
+title: "Mohammad Hossein Niki Maleki"
+email: "mh.nikimaleki@gmail.com"
+baseurl: "https://imohammadhossein.github.io/" 
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
