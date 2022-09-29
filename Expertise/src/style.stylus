@@ -28,8 +28,8 @@ $unicodeRange = U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, \
     url(https://fonts.gstatic.com/s/roboto/v19/KFOmCnqEu92Fr1Mu4mxK.woff2) \
     format('woff2')
 
-@page
-  size A4
+//@page
+//  size A4
 
 body
   color-adjust exact
